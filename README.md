@@ -1,6 +1,6 @@
 # Quiz 1 Group Members:
-Reynerio Samos - 2018119235
-Duane Arzu - 
+Reynerio Samos (2018119235),
+Duane Arzu ()
 
 Sources:
 - [About pull requests - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
