@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Issue: Greeting missing
-echo "___ World!"
+echo "__Hello_ World!"
